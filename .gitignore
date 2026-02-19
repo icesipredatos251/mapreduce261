@@ -2,7 +2,7 @@
 env/
 venv/
 .venv/
-env_lab_s3/
+venv_lab_s3/
 ENV/
 
 # Archivos Python compilados
